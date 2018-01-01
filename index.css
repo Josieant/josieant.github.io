@@ -1,0 +1,28 @@
+h1 {
+  color: #000;
+  line-height: 100px; 
+  font-size: 80px;
+  margin-top:100;
+color: aliceblue;
+  text-transform: uppercase; 
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+
+.image {
+  background-image: url("https://scontent.fagc1-1.fna.fbcdn.net/v/t31.0-8/22095912_1471065836275719_3193690804745771107_o.jpg?oh=f3f5542d4bf76622b42289df0395786c&oe=5AB72F3F");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+    padding-top: 200px
+}
+
+
+.container {{
+  margin: 0 auto;
+  max-width: 940px; 
+  padding: 0 10px;
+}
+}
